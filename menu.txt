@@ -1,0 +1,8 @@
+
+Chose option typing number
+1. Show board
+2. Change cell's state
+3. Evolve
+4. Change game rule
+5. Reset board
+6. Exit
